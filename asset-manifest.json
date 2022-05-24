@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/robots_4-redux-pwa/static/css/main.c9bdcafc.css",
-    "main.js": "/robots_4-redux-pwa/static/js/main.a714aa80.js",
+    "main.js": "/robots_4-redux-pwa/static/js/main.f7e32152.js",
     "static/js/787.76d6581d.chunk.js": "/robots_4-redux-pwa/static/js/787.76d6581d.chunk.js",
     "service-worker.js": "/robots_4-redux-pwa/service-worker.js",
     "static/media/SEGA.woff": "/robots_4-redux-pwa/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/robots_4-redux-pwa/index.html",
     "main.c9bdcafc.css.map": "/robots_4-redux-pwa/static/css/main.c9bdcafc.css.map",
-    "main.a714aa80.js.map": "/robots_4-redux-pwa/static/js/main.a714aa80.js.map",
+    "main.f7e32152.js.map": "/robots_4-redux-pwa/static/js/main.f7e32152.js.map",
     "787.76d6581d.chunk.js.map": "/robots_4-redux-pwa/static/js/787.76d6581d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9bdcafc.css",
-    "static/js/main.a714aa80.js"
+    "static/js/main.f7e32152.js"
   ]
 }
