@@ -1,18 +1,16 @@
 {
-  "main.css": "/robots_4-redux-pwa/static/css/main.38d4e0b7.chunk.css",
-  "main.js": "/robots_4-redux-pwa/static/js/main.67f520a6.chunk.js",
-  "main.js.map": "/robots_4-redux-pwa/static/js/main.67f520a6.chunk.js.map",
-  "runtime~main.js": "/robots_4-redux-pwa/static/js/runtime~main.946ec7ae.js",
-  "runtime~main.js.map": "/robots_4-redux-pwa/static/js/runtime~main.946ec7ae.js.map",
-  "static/css/2.3108cd18.chunk.css": "/robots_4-redux-pwa/static/css/2.3108cd18.chunk.css",
-  "static/js/2.fea135e9.chunk.js": "/robots_4-redux-pwa/static/js/2.fea135e9.chunk.js",
-  "static/js/2.fea135e9.chunk.js.map": "/robots_4-redux-pwa/static/js/2.fea135e9.chunk.js.map",
-  "static/js/3.ea86ce1b.chunk.js": "/robots_4-redux-pwa/static/js/3.ea86ce1b.chunk.js",
-  "static/js/3.ea86ce1b.chunk.js.map": "/robots_4-redux-pwa/static/js/3.ea86ce1b.chunk.js.map",
-  "index.html": "/robots_4-redux-pwa/index.html",
-  "precache-manifest.74f65963f5c0e918b36516cd3430970e.js": "/robots_4-redux-pwa/precache-manifest.74f65963f5c0e918b36516cd3430970e.js",
-  "service-worker.js": "/robots_4-redux-pwa/service-worker.js",
-  "static/css/2.3108cd18.chunk.css.map": "/robots_4-redux-pwa/static/css/2.3108cd18.chunk.css.map",
-  "static/css/main.38d4e0b7.chunk.css.map": "/robots_4-redux-pwa/static/css/main.38d4e0b7.chunk.css.map",
-  "static/media/App.css": "/robots_4-redux-pwa/static/media/SEGA.12a3db8b.woff"
+  "files": {
+    "main.css": "/robots_4-redux-pwa/static/css/main.1740a5f1.css",
+    "main.js": "/robots_4-redux-pwa/static/js/main.a285cf67.js",
+    "static/js/787.76d6581d.chunk.js": "/robots_4-redux-pwa/static/js/787.76d6581d.chunk.js",
+    "static/media/SEGA.woff": "/robots_4-redux-pwa/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robots_4-redux-pwa/index.html",
+    "main.1740a5f1.css.map": "/robots_4-redux-pwa/static/css/main.1740a5f1.css.map",
+    "main.a285cf67.js.map": "/robots_4-redux-pwa/static/js/main.a285cf67.js.map",
+    "787.76d6581d.chunk.js.map": "/robots_4-redux-pwa/static/js/787.76d6581d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1740a5f1.css",
+    "static/js/main.a285cf67.js"
+  ]
 }
